@@ -1,0 +1,5 @@
+\contentsline {chapter}{前言}{1}{chapter*.2}%
+\contentsline {part}{春}{3}{part*.3}%
+\contentsline {chapter}{一月}{5}{chapter*.4}%
+\contentsline {section}{202x.xx.xx 日记标题}{5}{section*.5}%
+\contentsline {subsection}{副标题}{5}{subsection*.6}%
